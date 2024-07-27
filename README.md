@@ -11,7 +11,7 @@
 
 ### Решение 1
 
-![Скрин](https://github.com/garrkiss/sql/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)
+![Скрин](https://github.com/garrkiss/sql2/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.png)
 
 ### Задание 2
 ### Что нужно сделать:
@@ -20,7 +20,7 @@
 
 ### Решение 2
 
-![Скрин](https://github.com/garrkiss/sql/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.png)
+![Скрин](https://github.com/garrkiss/sql2/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B52.png)
 
 ### Задание 3
 ### Что нужно сделать:
@@ -29,4 +29,4 @@
 
 ### Решение 3
 
-![Скрин](https://github.com/garrkiss/sql/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.png)
+![Скрин](https://github.com/garrkiss/sql2/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B53.png)
